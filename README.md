@@ -1,5 +1,11 @@
 # A Conway's game of life implementation on raylib using C++
 
+This is a simple implementation of Conway's game of life using raylib and C++. It is a simple project to get familiar with raylib and C++.
+
+## Video
+
+[![Game of life video](videos/1.png)](videos/1.mp4)
+
 ## How to run
 
 1. Clone this repository using `git clone --recursive https://github.com/burakssen/gameoflife.git`
